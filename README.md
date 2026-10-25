@@ -1,3 +1,6 @@
+# Rachel Nuhu Birma
+Data Analyst | Power BI, SQL, Excel | Data Cleaning, Validation & Visualisation
+
 # Hi, I'm Rachel Nuhu Birma 👋
 
 I'm building practical skills in Data Analytics, Business Intelligence, and Human Resource Analytics, with a strong interest in using data to support better decision-making.
